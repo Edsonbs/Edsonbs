@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=222222&center=true&vCenter=true&width=600&lines=Desarrollador+Junior+Full-Stack;Técnico+de+Sistemas+y+Redes;Estudiante+de+IA;Creador+de+Código+Limpio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=2678eb&center=true&vCenter=true&width=600&lines=Desarrollador+Junior+Full-Stack;Técnico+de+Sistemas+y+Redes;Estudiante+de+IA;Creador+de+Código+Limpio" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ##  Sobre Mí
-Soy un desarrollador de software con base en Madrid, construyendo mi carrera desde los cimientos del hardware hasta la lógica de la Inteligencia Artificial. Me considero un perfil Junior con mucha ambición, enfocado en entender el "por qué" detrás de la tecnología y no solo en picar código.
+Soy un desarrollador de software con que vive en Madrid, construyendo mi carrera desde el hardware hasta el software. Me considero un perfil Junior con mucha ambición y ganas de aprender; procuro entender el "por qué" detrás de la tecnología y no solo en el "cómo".
 
-* 🎓 **Mi camino:** Empecé trasteando con hardware en el CFGM de **Sistemas Microinformáticos y Redes (SMR)**, escalé al desarrollo de software con el CFGS de **Desarrollo de Aplicaciones Web (DAW)** y actualmente estoy llevando mis conocimientos al siguiente nivel cursando un **MSc en Inteligencia Artificial e Ingeniería del Conocimiento**.
-* 🛠 **Enfoque:** Optimización de rendimiento, automatización de despliegues y diseño centrado en el usuario.
-* 🚀 **Misión:** Transformar lógica compleja en código limpio y escalable. Creo firmemente que la mantenibilidad es clave; prefiero sacrificar un 5% de rendimiento si eso significa ganar un 40% de legibilidad y usabilidad para el resto del equipo.
+* 🎓 **Mi camino:** Empecé preguntándome cómo funcionan los videojuegos realmente y cómo se que yo veo esas imágenes y cómo puedo interactuar con ellas desde mi mando, pasé por descubrir e interesarme en el mundo de los smartphones (aprendiendo acerca de su hardware y software) y finalmente comencé a curiosear el hardware y software de PC, pasando por investigar también el lado de los servidores. Amplié mi visión de los sistemas (principalmente a nivel de hardware) en el CFGM de **Sistemas Microinformáticos y Redes (SMR)**, amplié mi visión de los sistemas (a nivel de software) con el CFGS de **Desarrollo de Aplicaciones Web (DAW)** y actualmente estoy llevando mis conocimientos al siguiente nivel cursando un **MSc en Inteligencia Artificial e Ingeniería del Conocimiento**.
+* 🛠 **Enfoque:** Optimización de rendimiento, automatización de despliegues y diseño centrado en el usuario.  
+* 🚀 **Mi misión:** Transformar ideas con una lógica compleja en un sistema tangible desarrollado con código limpio, escalable y eficiente.
 
 ## ⚙️ Tech Stack
 <!-- Insignias con estética minimalista unificada -->
