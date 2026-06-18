@@ -40,7 +40,7 @@ Amplié mi visión de los sistemas (principalmente a nivel de hardware) en el CF
 ## 🌱 Próximos Objetivos (Learning Roadmap)
 Mi objetivo a corto/medio plazo es seguir expandiendo mi stack y dominar nuevas herramientas. Actualmente tengo en mi radar de aprendizaje:
 * **Backend & API:** FastAPI, Django, Flask, Spring Boot.
-* **Frontend:** React, TypeScript, jQuery.
+* **Frontend:** React, TypeScript, Alpine.js.
 * **Lenguajes de Rendimiento:** C++, C#, Rust, Swift.
 * **Motores Gráficos:** Unity, Unreal Engine.
 
