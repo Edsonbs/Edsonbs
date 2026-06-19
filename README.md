@@ -42,7 +42,7 @@ Mi objetivo a corto/medio plazo es seguir expandiendo mi stack y dominar nuevas 
 * **Backend & API:** FastAPI, Django, Flask, Spring Boot.
 * **Frontend:** React, TypeScript, Alpine.js.
 * **Lenguajes de Rendimiento:** C++, C#, Rust, Go, Swift.
-* **Motores Gráficos:** Unity, Unreal Engine.
+* **Motores Gráficos:** Unity, Unreal Engine, Godot Engine.
 
 ## 📁 Proyectos Destacados (Demos)
 
